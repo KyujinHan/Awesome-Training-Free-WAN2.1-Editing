@@ -10,7 +10,7 @@ It performs much better than [FlowDirector🦚](https://github.com/Westlake-AGI-
 <table border="0" width="100%">
 <tr>
   <td style="text-align:center;"><b>Input Video</b></td>
-  <td style="text-align:center;"><b>WANAlign2.1</b></td>
+  <td style="text-align:center;"><b>WANAlign2.1⚡</b></td>
   <td style="text-align:center;"><b>FlowDirector</b></td>
   <td style="text-align:center;"><b>WANEdit2.1</b></td>
 </tr>
@@ -25,7 +25,7 @@ It performs much better than [FlowDirector🦚](https://github.com/Westlake-AGI-
 </tr>
     
 <tr>
-  <td><img src="https://github.com/user-attachments/assets/5153cf99-9042-4dde-8b38-4b8988b96301"></td>
+  <td><img src="https://github.com/user-attachments/assets/edc2d5bf-1347-4ac5-86d2-ccdd0a4a1f3e"></td>
   <td><img src="https://github.com/user-attachments/assets/e1a6471e-5438-4743-a5e7-9bf96a7e5c32"></td>
   <td><img src="https://github.com/user-attachments/assets/c293bf71-9609-4798-88e3-0e838b8af96c"></td>              
   <td><img src="https://github.com/user-attachments/assets/5b6b1773-11fa-4f95-9396-dcc42c59f04f"></td>
@@ -40,7 +40,7 @@ It performs much better than [FlowDirector🦚](https://github.com/Westlake-AGI-
 <table border="0" width="100%">
 <tr>
   <td style="text-align:center;"><b>Input Video</b></td>
-  <td style="text-align:center;"><b>WANAlign2.1</b></td>
+  <td style="text-align:center;"><b>WANAlign2.1⚡</b></td>
   <td style="text-align:center;"><b>FlowDirector</b></td>
   <td style="text-align:center;"><b>WANEdit2.1</b></td>
 </tr>
@@ -68,6 +68,33 @@ It performs much better than [FlowDirector🦚](https://github.com/Westlake-AGI-
 - Texture Editing
 
 - Add Effect/Object
+<table border="0" width="100%">
+<tr>
+  <td style="text-align:center;"><b>Input Video</b></td>
+  <td style="text-align:center;"><b>WANAlign2.1⚡</b></td>
+  <td style="text-align:center;"><b>FlowDirector</b></td>
+  <td style="text-align:center;"><b>WANEdit2.1</b></td>
+</tr>
+<tr>
+  <td><img src="https://github.com/user-attachments/assets/5153cf99-9042-4dde-8b38-4b8988b96301"></td>
+  <td><img src="https://github.com/user-attachments/assets/e1a6471e-5438-4743-a5e7-9bf96a7e5c32"></td>
+  <td><img src="https://github.com/user-attachments/assets/c293bf71-9609-4798-88e3-0e838b8af96c"></td>              
+  <td><img src="https://github.com/user-attachments/assets/5b6b1773-11fa-4f95-9396-dcc42c59f04f"></td>
+</tr>
+<tr>
+  <td style="text-align:center;" colspan="4">A large brown bear ... ➡️ A large yellow bear ...</td>
+</tr>
+    
+<tr>
+  <td><img src="https://github.com/user-attachments/assets/5153cf99-9042-4dde-8b38-4b8988b96301"></td>
+  <td><img src="https://github.com/user-attachments/assets/e1a6471e-5438-4743-a5e7-9bf96a7e5c32"></td>
+  <td><img src="https://github.com/user-attachments/assets/c293bf71-9609-4798-88e3-0e838b8af96c"></td>              
+  <td><img src="https://github.com/user-attachments/assets/5b6b1773-11fa-4f95-9396-dcc42c59f04f"></td>
+</tr>
+<tr>
+  <td style="text-align:center;" colspan="4">... in a snowy field. ➡️ ... in the ocean.</td>
+</tr>
+</table>
 
 
 # Introduce WANAlign2.1🦖
