@@ -21,7 +21,7 @@ It performs much better than [FlowDirector🦚](https://github.com/Westlake-AGI-
   <td><img src="https://github.com/user-attachments/assets/5b6b1773-11fa-4f95-9396-dcc42c59f04f"></td>
 </tr>
 <tr>
-  <td style="text-align:center;" colspan="4">A large brown bear ... ➡️ A large yellow bear ...</td>
+  <td style="text-align:center;" colspan="4">A large brown bear ... ➡️ A large <b>yellow</b> bear ...</td>
 </tr>
     
 <tr>
@@ -31,7 +31,7 @@ It performs much better than [FlowDirector🦚](https://github.com/Westlake-AGI-
   <td><img src="https://github.com/user-attachments/assets/5b6b1773-11fa-4f95-9396-dcc42c59f04f"></td>
 </tr>
 <tr>
-  <td style="text-align:center;" colspan="4">... in a snowy field. ➡️ ... in the ocean.</td>
+  <td style="text-align:center;" colspan="4">... in a snowy field. ➡️ ... in the <b>ocean</b>.</td>
 </tr>
 </table>
 
@@ -68,6 +68,7 @@ It performs much better than [FlowDirector🦚](https://github.com/Westlake-AGI-
 - Texture Editing
 
 - Add Effect/Object
+
 <table border="0" width="100%">
 <tr>
   <td style="text-align:center;"><b>Input Video</b></td>
@@ -76,23 +77,23 @@ It performs much better than [FlowDirector🦚](https://github.com/Westlake-AGI-
   <td style="text-align:center;"><b>WANEdit2.1</b></td>
 </tr>
 <tr>
-  <td><img src="https://github.com/user-attachments/assets/5153cf99-9042-4dde-8b38-4b8988b96301"></td>
+  <td><img src="https://github.com/user-attachments/assets/c1945530-3e72-401d-8a30-dac43db9ed47"></td>
   <td><img src="https://github.com/user-attachments/assets/e1a6471e-5438-4743-a5e7-9bf96a7e5c32"></td>
   <td><img src="https://github.com/user-attachments/assets/c293bf71-9609-4798-88e3-0e838b8af96c"></td>              
   <td><img src="https://github.com/user-attachments/assets/5b6b1773-11fa-4f95-9396-dcc42c59f04f"></td>
 </tr>
 <tr>
-  <td style="text-align:center;" colspan="4">A large brown bear ... ➡️ A large yellow bear ...</td>
+  <td style="text-align:center;" colspan="4">A white boat ... ➡️ A white boat <b>on fire</b> ...</td>
 </tr>
     
 <tr>
-  <td><img src="https://github.com/user-attachments/assets/5153cf99-9042-4dde-8b38-4b8988b96301"></td>
+  <td><img src="https://github.com/user-attachments/assets/c1945530-3e72-401d-8a30-dac43db9ed47"></td>
   <td><img src="https://github.com/user-attachments/assets/e1a6471e-5438-4743-a5e7-9bf96a7e5c32"></td>
   <td><img src="https://github.com/user-attachments/assets/c293bf71-9609-4798-88e3-0e838b8af96c"></td>              
   <td><img src="https://github.com/user-attachments/assets/5b6b1773-11fa-4f95-9396-dcc42c59f04f"></td>
 </tr>
 <tr>
-  <td style="text-align:center;" colspan="4">... in a snowy field. ➡️ ... in the ocean.</td>
+  <td style="text-align:center;" colspan="4">... ➡️ ... <b>In the sky, a large eagle is flying forward.</b></td>
 </tr>
 </table>
 
