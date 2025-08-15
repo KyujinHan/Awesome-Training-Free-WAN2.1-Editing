@@ -14,8 +14,8 @@ It performs much better than FlowDirector🦚!! (2025. 08)
 > Reviewed by kyujinpy🤗.
 
 # TODO
-- [x](Support WAN2.1-T2V-1.3B)
-- [](Support WAN2.1-T2V-14B)
+- [ ](Support WAN2.1-T2V-1.3B)
+- [ ](Support WAN2.1-T2V-14B)
 
 # References
 - [WAN2.1-T2V-1.3B](https://huggingface.co/Wan-AI/Wan2.1-T2V-1.3B)
