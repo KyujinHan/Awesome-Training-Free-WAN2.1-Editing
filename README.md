@@ -159,7 +159,7 @@ pip install -e .
 ```
 python awesome_wan_editing.py --config=[__config_yaml_path__]
 ```
-> There are some config file [examples]().
+> There are some config file [examples](https://github.com/KyujinHan/Awesome-Training-Free-WAN2.1-Editing/tree/master/config).
   
 ## Detail Code lines🏫
 - FlowEdit Code: [WanPipelin.flowedit]()
