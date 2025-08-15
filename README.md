@@ -2,7 +2,7 @@
 Awesome Training-Free methods meet WAN2.1-T2V (made by kyujinpy🤗)  
 It performs much better than [FlowDirector🦚](https://github.com/Westlake-AGI-Lab/FlowDirector)!!  
 
-# Simple Introduction WANAlign🦖
+# Simple Introduction WANAlign2.1🦖
 
 # Results🐦‍🔥
 
