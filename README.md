@@ -37,7 +37,7 @@ It performs much better than [FlowDirector🦚](https://github.com/Westlake-AGI-
 <table border="0" style="width: 100%; margin-top: 20px;">
 <tr>
   <td style="text-align:center;"><b>Input Video</b></td>
-  <td style="text-align:center;><b>WANAlign2.1</b></td>
+  <td style="text-align:center;><b>WANAlign</b></td>
   <td style="text-align:center;><b>FlowDirector</b></td>
   <td style="text-align:center;><b>WANEdit</b></td>
 </tr>
