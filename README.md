@@ -1,6 +1,6 @@
 # Awesome-Training-Free-WAN2.1-Editing🍀  
-Training method meets WAN2.1-T2V (made by kyujinpy🤗)
-It performs much better than FlowDirector🦚!! (2025. 08)  
+Training method meets WAN2.1-T2V (made by kyujinpy🤗)  
+It performs much better than [FlowDirector🦚](https://github.com/Westlake-AGI-Lab/FlowDirector)!!  
 
 # Simple Introduction (WANAlign; made by kyujinpy)🦖
 
