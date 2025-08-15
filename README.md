@@ -162,7 +162,7 @@ python awesome_wan_editing.py --config=[__config_yaml_path__]
 - Attention Extract Code: [wan_attention]()
 - WANAlign Code: [WanPipelin.flowalign]()
 
-# Paper Review✨
+# Paper Reviews✨
 - [FlowEdit Review; korean](https://kyujinpy.tistory.com/175)
 - [FlowDirector Review; korean]()
 - [WANAlign2.1 Project; korean]()
