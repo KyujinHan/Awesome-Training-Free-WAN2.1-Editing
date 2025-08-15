@@ -4,6 +4,8 @@
 *Awesome Training-Free methods meet WAN2.1-T2V.*  
 It performs much better than [FlowDirector🦚](https://github.com/Westlake-AGI-Lab/FlowDirector)!!  
 
+# Introduce WANAlign2.1⚡
+
 # Results🐦‍🔥
 ### 1️⃣Color/Background Editing
 
@@ -124,12 +126,6 @@ It performs much better than [FlowDirector🦚](https://github.com/Westlake-AGI-
   <td width=100% style="text-align:center;" colspan="4">... ➡️ ... <b>In the sky, a large eagle is flying forward.</b></td>
 </tr>
 </table>
-
-
-# Introduce WANAlign2.1🦖
-```
-(TODO)
-```
 
 # Quick Start (Code)🥏
 ## Environment
