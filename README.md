@@ -66,10 +66,6 @@ It performs much better than [FlowDirector🦚](https://github.com/Westlake-AGI-
 </table>
 
 ### 3️⃣Texture Editing
-![wanedit_silver_statue_swan_carrying_turtle](https://github.com/user-attachments/assets/96748619-8faf-47ba-9bf9-4ead215f5e43)
-![wanedit_crochet_rabbit](https://github.com/user-attachments/assets/e2dbf575-615f-4d4d-ab86-9b66c5e32713)
-![wanalign_silver_statue_swan_carrying_turtle](https://github.com/user-attachments/assets/6fe5dac3-b6f0-4688-b9a4-429828ca2bdf)
-![wanalign_crochet_rabbit](https://github.com/user-attachments/assets/79b98bd2-326a-4629-876a-0a5291370e3d)
 
 <table border="0" width="100%">
 <tr>
