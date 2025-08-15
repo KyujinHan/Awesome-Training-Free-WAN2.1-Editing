@@ -4,6 +4,7 @@ It performs much better than [FlowDirector🦚](https://github.com/Westlake-AGI-
 
 # Results🐦‍🔥
 - Color/Background Editing
+
 <table class="center">
 <tr>
   <td style="text-align:center;"><b>Input Video</b></td>
