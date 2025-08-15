@@ -15,6 +15,7 @@ It performs much better than [FlowDirector🦚](https://github.com/Westlake-AGI-
   <td style="text-align:center;><b>FlowDirector</b></td>
   <td style="text-align:center;><b>WANEdit</b></td>
 </tr>
+    
 <tr>
   <td><video src="./videos/bear_832.mp4"></td>
   <td><video src="./results/object_editing/wanalign_bear_2_tiger.mp4"></td>
