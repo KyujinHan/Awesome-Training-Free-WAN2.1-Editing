@@ -4,7 +4,7 @@ It performs much better than [FlowDirector🦚](https://github.com/Westlake-AGI-
 
 # Results🐦‍🔥
 - Color/Background Editing
-
+  
 <table class="center">
 <tr>
   <td style="text-align:center;"><b>Input Video</b></td>
@@ -52,7 +52,7 @@ It performs much better than [FlowDirector🦚](https://github.com/Westlake-AGI-
 <tr>
   <td width=100% style="text-align:center;" colspan=4>A large brown bear ...➡️A large tiger ...</td>
 </tr>
-
+  
 <tr>
   <td><video src="./videos/sea_turtle_832"></td>
   <td><video src="./results/object_editing/wanalign_turtle_2_seal.mp4"></td>
@@ -63,7 +63,7 @@ It performs much better than [FlowDirector🦚](https://github.com/Westlake-AGI-
   <td width=100% style="text-align:center;" colspan=4>A graceful sea turtle ...➡️A graceful seal ...</td>
 </tr>
 </table>
-
+  
 - Texture Editing
 
 - Add Effect/Object
