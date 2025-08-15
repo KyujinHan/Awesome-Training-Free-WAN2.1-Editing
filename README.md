@@ -13,7 +13,7 @@ As shown in [Results](https://github.com/KyujinHan/Awesome-Training-Free-WAN2.1-
 ### Inference speed
 | WANAlign2.1⚡| FlowDirector | WANEdit2.1 |
 | --- | --- | --- |
-| **110 seconds** | 540 seconds | 150 seconds |
+| **75 seconds** | 540 seconds | 150 seconds |
   
 ### 1️⃣Color/Background Editing
 
