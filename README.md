@@ -1,5 +1,5 @@
 # Awesome-Training-Free-WAN2.1-Editing🍀  
-Awesome Training-Free methods meet WAN2.1-T2V.
+Awesome Training-Free methods meet WAN2.1-T2V.  
 It performs much better than [FlowDirector🦚](https://github.com/Westlake-AGI-Lab/FlowDirector)!!  
 
 # Results🐦‍🔥
