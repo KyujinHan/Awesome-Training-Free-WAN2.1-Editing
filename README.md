@@ -33,7 +33,7 @@ It performs much better than [FlowDirector🦚](https://github.com/Westlake-AGI-
 </table>
 
 - Object Editing
-  
+
 <table class="center">
 <tr>
   <td width=25% style="text-align:center;"><b>Input Video</b></td>
@@ -48,7 +48,7 @@ It performs much better than [FlowDirector🦚](https://github.com/Westlake-AGI-
   <td><video src="./results/object_editing/wanalign_bear_2_tiger.mp4"></td>
 </tr>
 <tr>
-  <td width=100% style="text-align:center;" colspan=4>A large brown bear ...➡️A large tiger ...</td>
+  <td width=100% style="text-align:center;">A large brown bear ...➡️A large tiger ...</td>
 </tr>
 <tr>
   <td><video src="./videos/sea_turtle_832"></td>
@@ -57,10 +57,10 @@ It performs much better than [FlowDirector🦚](https://github.com/Westlake-AGI-
   <td><video src="./results/object_editing/wanedit_turtle_2_seal.mp4"></td>
 </tr>
 <tr>
-  <td width=100% style="text-align:center;" colspan=4>A graceful sea turtle ...➡️A graceful seal ...</td>
+  <td width=100% style="text-align:center;">A graceful sea turtle ...➡️A graceful seal ...</td>
 </tr>
 </table>
-  
+
 - Texture Editing
 
 - Add Effect/Object
