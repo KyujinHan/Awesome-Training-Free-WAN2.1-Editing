@@ -50,17 +50,17 @@ It performs much better than [FlowDirector🦚](https://github.com/Westlake-AGI-
   <td><video src="./results/object_editing/wanalign_bear_2_tiger.mp4" width="100%" controls autoplay loop></td>
 </tr>
 <tr>
-  <td width=100% style="text-align:center;" colspan="4">A graceful sea turtle ... ➡️ A graceful seal ...</td>
+  <td width=100% style="text-align:center;" colspan="4">A graceful sea turtle ... ➡️ A graceful <font color="red">seal</font> ...</td>
 </tr>
     
 <tr>
   <td><img src="https://github.com/user-attachments/assets/5153cf99-9042-4dde-8b38-4b8988b96301"></td>
-  <td><img src="./results/object_editing/wanalign_turtle_2_seal.mp4" width="100%" controls autoplay loop></td>
+  <td><img src="https://github.com/user-attachments/assets/e1a6471e-5438-4743-a5e7-9bf96a7e5c32"></td>
   <td><img src="https://github.com/user-attachments/assets/c293bf71-9609-4798-88e3-0e838b8af96c"></td>              
   <td><img src="https://github.com/user-attachments/assets/5b6b1773-11fa-4f95-9396-dcc42c59f04f"></td>
 </tr>
 <tr>
-  <td width=100% style="text-align:center;" colspan="4">A large brown bear ... ➡️ A large tiger ...</td>
+  <td width=100% style="text-align:center;" colspan="4">A large brown bear ... ➡️ A large <font color="red">tiger</font> ...</td>
 </tr>
 </table>
 
