@@ -167,7 +167,7 @@ python awesome_wan_editing.py --config=[__config_yaml_path__]
 - FlowAlign Code: [WanPipeline.flowalign](https://github.com/KyujinHan/Awesome-Training-Free-WAN2.1-Editing/blob/9ab742e768cd7c174f7a2159a839754c09c559d3/diffusers/src/diffusers/pipelines/wan/pipeline_wan.py#L1204)
 - WANAlign2.1 **Core** Code: [WanPipeline.flowalign](https://github.com/KyujinHan/Awesome-Training-Free-WAN2.1-Editing/blob/9ab742e768cd7c174f7a2159a839754c09c559d3/diffusers/src/diffusers/pipelines/wan/pipeline_wan.py#L1553)
 - Attention Extract Code: [wan_attention](https://github.com/KyujinHan/Awesome-Training-Free-WAN2.1-Editing/blob/9ab742e768cd7c174f7a2159a839754c09c559d3/diffusers/src/diffusers/pipelines/wan/pipeline_wan.py#L1515)
-> If you want to visualize attention masking maps, please activate [these code](https://github.com/KyujinHan/Awesome-Training-Free-WAN2.1-Editing/blob/master/45cf87c84d08d4c8fdd364523fbe1fcbd5ad8298/diffusers/src/diffusers/pipelines/wan/pipeline_wan.py#L1515).
+> If you want to visualize attention masking maps, please activate [these code](https://github.com/KyujinHan/Awesome-Training-Free-WAN2.1-Editing/blob/45cf87c84d08d4c8fdd364523fbe1fcbd5ad8298/diffusers/src/diffusers/pipelines/wan/pipeline_wan.py#L1515).
 
 # Paper Reviews✨
 - [FlowEdit Review; korean](https://kyujinpy.tistory.com/175)
