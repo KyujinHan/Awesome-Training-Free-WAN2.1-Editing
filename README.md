@@ -79,11 +79,11 @@ It performs much better than [FlowDirector🦚](https://github.com/Westlake-AGI-
 <tr>
   <td><img src="https://github.com/user-attachments/assets/c1945530-3e72-401d-8a30-dac43db9ed47"></td>
   <td><img src="https://github.com/user-attachments/assets/a7991495-2394-4c96-ba54-f1f84157347e"></td>
-  <td><img src="https://github.com/user-attachments/assets/c293bf71-9609-4798-88e3-0e838b8af96c"></td>              
+  <td><img src="https://github.com/user-attachments/assets/9d3d0c6f-c804-4b86-82c9-0fa6fe3ab88e"></td>              
   <td><img src="https://github.com/user-attachments/assets/90a4d4ea-495a-4dc6-86b4-a21bbd42e20e"></td>
 </tr>
 <tr>
-  <td style="text-align:center;" colspan="4">A white boat ... ➡️ A white boat <b>on fire</b> ...</td>
+  <td width=100% style="text-align:center;" colspan="4">A white boat ... ➡️ A white boat <b>on fire</b> ...</td>
 </tr>
     
 <tr>
@@ -93,7 +93,7 @@ It performs much better than [FlowDirector🦚](https://github.com/Westlake-AGI-
   <td><img src="https://github.com/user-attachments/assets/2f3a5ae2-669c-4129-b3a9-b33e6e0e438b"></td>
 </tr>
 <tr>
-  <td style="text-align:center;" colspan="4">... ➡️ ... <b>In the sky, a large eagle is flying forward.</b></td>
+  <td width=100% style="text-align:center;" colspan="4">... ➡️ ... <b>In the sky, a large eagle is flying forward.</b></td>
 </tr>
 </table>
 
