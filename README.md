@@ -22,7 +22,7 @@ It performs much better than [FlowDirector🦚](https://github.com/Westlake-AGI-
   <td><img src="./results/object_editing/wanedit_bear_2_tiger.mp4"></td>
 </tr>
 <tr>
-  <td width=100% style="text-align:center;color:gray;">"A large brown bear ...➡️A large tiger ..."</td>
+  <td width=100% style="text-align:center;color:gray;" colspan="4">"A large brown bear ...➡️A large tiger ..."</td>
 </tr>
 
 <tr>
@@ -32,7 +32,7 @@ It performs much better than [FlowDirector🦚](https://github.com/Westlake-AGI-
   <td><img src="./results/object_editing/video6.gif"></td>
 </tr>
 <tr>
-  <td width=100% style="text-align:center;color:gray;">"A rabbit is eating a watermelon on the table"</td>
+  <td width=100% style="text-align:center;color:gray;" colspan="4">"A rabbit is eating a watermelon on the table"</td>
 </tr>
 </table>
 
