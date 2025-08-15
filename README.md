@@ -66,6 +66,10 @@ It performs much better than [FlowDirector🦚](https://github.com/Westlake-AGI-
 </table>
 
 ### 3️⃣Texture Editing
+![wanedit_silver_statue_swan_carrying_turtle](https://github.com/user-attachments/assets/96748619-8faf-47ba-9bf9-4ead215f5e43)
+![wanedit_crochet_rabbit](https://github.com/user-attachments/assets/e2dbf575-615f-4d4d-ab86-9b66c5e32713)
+![wanalign_silver_statue_swan_carrying_turtle](https://github.com/user-attachments/assets/6fe5dac3-b6f0-4688-b9a4-429828ca2bdf)
+![wanalign_crochet_rabbit](https://github.com/user-attachments/assets/79b98bd2-326a-4629-876a-0a5291370e3d)
 
 <table border="0" width="100%">
 <tr>
@@ -76,9 +80,9 @@ It performs much better than [FlowDirector🦚](https://github.com/Westlake-AGI-
 </tr>
 <tr>
   <td><img src="https://github.com/user-attachments/assets/ba576a66-4d2f-4a76-91df-636834318b50"></td>
-  <td><img src="https://github.com/user-attachments/assets/a7991495-2394-4c96-ba54-f1f84157347e"></td>
+  <td><img src="https://github.com/user-attachments/assets/6fe5dac3-b6f0-4688-b9a4-429828ca2bdf"></td>
   <td><img src="https://github.com/user-attachments/assets/9d3d0c6f-c804-4b86-82c9-0fa6fe3ab88e"></td>              
-  <td><img src="https://github.com/user-attachments/assets/90a4d4ea-495a-4dc6-86b4-a21bbd42e20e"></td>
+  <td><img src="https://github.com/user-attachments/assets/96748619-8faf-47ba-9bf9-4ead215f5e43"></td>
 </tr>
 <tr>
   <td width=100% style="text-align:center;" colspan="4">A black swan ... ➡️ A <b>silver statue</b> swan <b>carrying a turtle</b> ...</td>
@@ -86,9 +90,9 @@ It performs much better than [FlowDirector🦚](https://github.com/Westlake-AGI-
     
 <tr>
   <td><img src="https://github.com/user-attachments/assets/6f93744f-3e1a-4cf0-bde2-bc217a4185f9"></td>
-  <td><img src="https://github.com/user-attachments/assets/75df3ff2-c28f-40bc-9b6c-3ce72cd1da77"></td>
+  <td><img src="https://github.com/user-attachments/assets/79b98bd2-326a-4629-876a-0a5291370e3d"></td>
   <td><img src="https://github.com/user-attachments/assets/ffc426e7-3817-48fe-a602-43e98bfb3e6a"></td>              
-  <td><img src="https://github.com/user-attachments/assets/2f3a5ae2-669c-4129-b3a9-b33e6e0e438b"></td>
+  <td><img src="https://github.com/user-attachments/assets/e2dbf575-615f-4d4d-ab86-9b66c5e32713"></td>
 </tr>
 <tr>
   <td width=100% style="text-align:center;" colspan="4">A rabbit ... ➡️ A <b>crochet</b> rabbit ...</td>
