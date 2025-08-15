@@ -67,7 +67,7 @@ It performs much better than [FlowDirector🦚](https://github.com/Westlake-AGI-
 - Add Effect/Object
 
 
-# Simple Introduction WANAlign2.1🦖
+# Introduce WANAlign2.1🦖
 ```
 (TODO)
 ```
