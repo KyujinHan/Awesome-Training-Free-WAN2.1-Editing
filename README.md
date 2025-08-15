@@ -2,7 +2,6 @@
 **Star🌟 is a great help in open source development!**
   
 *Awesome Training-Free (Inversion-Free) methods meet WAN2.1-T2V.*  
-It performs much better than [FlowDirector🦚](https://github.com/Westlake-AGI-Lab/FlowDirector)!!  
 
 # Introduce WANAlign2.1⚡
 We present **WANAlign2.1⚡**, an inversion-free video editing framework that combines the inversion-free editing method **FlowAlign** with **WAN2.1**. By integrating FlowAlign’s inversion-free sampling equation into WAN2.1, our approach preserves the intrinsic characteristics of the source video during editing.   
