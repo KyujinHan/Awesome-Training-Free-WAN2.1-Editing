@@ -68,15 +68,33 @@ It performs much better than [FlowDirector🦚](https://github.com/Westlake-AGI-
 
 
 # Simple Introduction WANAlign2.1🦖
+```
+(TODO)
+```
 
 # Quick Start (Code)🥏
+## Environment
+```
+(TODO)
+```
+
+## Run code🏂
+```
+(TODO)
+```
+
+## Detail Code lines🏫
+- FlowEdit Code: [WanPipelin.flowedit]()
+- FlowAlign Code: [WanPipelin.flowalign]()
+- Attention Masking Code: [wan_attention]()
+- WANAlign Code: [WanPipelin.flowalign]()
 
 # Paper Review✨
 - [FlowEdit Review; korean]()
 - [FlowDirector Review; korean]()
 > Reviewed by kyujinpy🤗.
 
-# TODO
+# TODO-list
 - [ ] Paper Review 
 - [x] Integrating Diffusers🤗
 - [ ] Code Release
