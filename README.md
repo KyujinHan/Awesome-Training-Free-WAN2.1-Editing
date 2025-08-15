@@ -1,5 +1,5 @@
 # Awesome-Training-Free-WAN2.1-Editing🍀  
-Awesome Training-Free methods meet WAN2.1-T2V. (made by kyujinpy🤗)  
+Awesome Training-Free methods meet WAN2.1-T2V.
 It performs much better than [FlowDirector🦚](https://github.com/Westlake-AGI-Lab/FlowDirector)!!  
 
 # Results🐦‍🔥
@@ -51,8 +51,9 @@ It performs much better than [FlowDirector🦚](https://github.com/Westlake-AGI-
 > Reviewed by kyujinpy🤗.
 
 # TODO
-- [x]Support WAN2.1-T2V-1.3B
-- []Support WAN2.1-T2V-14B
+- [x] Integrating Diffusers🤗 
+- [x] Support WAN2.1-T2V-1.3B
+- [] Support WAN2.1-T2V-14B
 
 # References
 - [WAN2.1-T2V-1.3B](https://huggingface.co/Wan-AI/Wan2.1-T2V-1.3B)
