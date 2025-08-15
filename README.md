@@ -134,14 +134,28 @@ It performs much better than [FlowDirector🦚](https://github.com/Westlake-AGI-
 # Quick Start (Code)🥏
 ## Environment
 ```
-(TODO)
+torch==2.4.0+cuda12.1
+torchvision==0.19.0
+transformers==4.51.3
+numpy==1.26.4
+matplotlib
+omegaconf
+argparser
+imageio
 ```
-
+  
+You **must** install provided `diffusers` library.
+```
+cd ./diffusers
+pip install -e .
+```
+  
 ## Run code🏂
 ```
-(TODO)
+python awesome_wan_editing.py --config=[__config_yaml_path__]
 ```
-
+> There are some config file [examples]().
+  
 ## Detail Code lines🏫
 - FlowEdit Code: [WanPipelin.flowedit]()
 - FlowAlign Code: [WanPipelin.flowalign]()
@@ -151,6 +165,7 @@ It performs much better than [FlowDirector🦚](https://github.com/Westlake-AGI-
 # Paper Review✨
 - [FlowEdit Review; korean]()
 - [FlowDirector Review; korean]()
+- [WANAlign2.1 Project; korean]()
 > Reviewed by kyujinpy🤗.
 
 # TODO-list
