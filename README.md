@@ -46,7 +46,7 @@ It performs much better than [FlowDirector🦚](https://github.com/Westlake-AGI-
   <td><video src="./videos/bear_832.mp4"></td>
   <td><video src="./results/object_editing/wanalign_bear_2_tiger.mp4"></td>
   <td><video src="./results/object_editing/flowdirector_bear_2_tiger.mp4"></td>              
-  <td><video src="./results/object_editing/wanedit_bear_2_tiger.mp4"></td>
+  <td><video src="./results/object_editing/wanalign_bear_2_tiger.mp4"></td>
 </tr>
 <tr>
   <td width=100% style="text-align:center;">A large brown bear ...➡️A large tiger ...</td>
@@ -55,7 +55,7 @@ It performs much better than [FlowDirector🦚](https://github.com/Westlake-AGI-
 <tr>
   <td><video src="./videos/sea_turtle_832"></td>
   <td><video src="./results/object_editing/wanalign_turtle_2_seal.mp4"></td>
-  <td><video src="./results/object_editing/flowdirector_turtle_2_seal.mp4"></td>              
+  <td><video src="./results/object_editing/wanalign_turtle_2_seal.mp4"></td>              
   <td><video src="./results/object_editing/wanedit_turtle_2_seal.mp4"></td>
 </tr>
 <tr>
