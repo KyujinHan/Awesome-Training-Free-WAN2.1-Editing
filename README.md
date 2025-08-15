@@ -45,9 +45,9 @@ It performs much better than [FlowDirector🦚](https://github.com/Westlake-AGI-
 </tr>
 <tr>
   <td><video src="./videos/bear_832.mp4" controls autoplay loop></td>
-  <td><video src="./results/object_editing/wanalign_bear_2_tiger.mp4" width="100%" controls autoplay loop></td>
-  <td><video src="./results/object_editing/flowdirector_bear_2_tiger.mp4" width="100%" controls autoplay loop></td>              
-  <td><video src="./results/object_editing/wanalign_bear_2_tiger.mp4" width="100%" controls autoplay loop></td>
+  <td><video src="https://github.com/user-attachments/assets/c31bb549-389e-4d54-91dc-fe8ac3ed57f9"></td>
+  <td><video src="https://github.com/user-attachments/assets/de23489a-5b5e-4938-92e0-1248664d4a9f"></td>              
+  <td><video src="https://github.com/user-attachments/assets/a524ffba-f92f-480c-918b-fd0c3d7acbdd"></td>
 </tr>
 <tr>
   <td width=100% style="text-align:center;" colspan="4">A graceful sea turtle ... ➡️ A graceful <b>seal</b> ...</td>
