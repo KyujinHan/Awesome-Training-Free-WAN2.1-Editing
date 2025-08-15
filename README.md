@@ -30,13 +30,13 @@ It performs much better than [FlowDirector🦚](https://github.com/Westlake-AGI-
   <td><video src="./results/background_color_editing/wanedit_snowy_2_ocean.mp4" width="100%" controls autoplay loop></td>
 </tr>
 <tr>
-  <td style="text-align:center;color:gray;" colspan="4">... in a snowy field. ➡️ ... in the ocean.</td>
+  <td style="text-align:center;" colspan="4">... in a snowy field. ➡️ ... in the ocean.</td>
 </tr>
 </table>
 
 - Object Editing
 
-<table border="0" width="100%">
+<table>
 <tr>
   <td style="text-align:center;"><b>Input Video</b></td>
   <td style="text-align:center;"><b>WANAlign2.1</b></td>
