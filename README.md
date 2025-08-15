@@ -1,12 +1,13 @@
-# Awesome-Inversion-Free-WAN2.1-Editing🍀  
+# Awesome-Training-Free-WAN2.1-Editing🍀  
 **Star🌟 is a great help in open source development!**
   
-*Awesome Inversion-Free methods meet WAN2.1-T2V.*  
+*Awesome Training-Free (Inversion-Free) methods meet WAN2.1-T2V.*  
 It performs much better than [FlowDirector🦚](https://github.com/Westlake-AGI-Lab/FlowDirector)!!  
 
 # Introduce WANAlign2.1⚡
 We present **WANAlign2.1⚡**, an inversion-free video editing framework that combines the training-free **FlowAlign** method with **WAN2.1**. By integrating FlowAlign’s inversion-free sampling equation into WAN2.1, our approach preserves the intrinsic characteristics of the source video during editing.   
-To further enhance control, we introduce **Decoupled Inversion-Free Sampling (DIFS)**, which leverages **attention masking to independently adjust the editing strength** between preserved and modified regions. Unlike previous methods that lack explicit region separation—often causing unintended modifications—WANAlign2.1 achieves improved spatial-temporal consistency and enhanced text-guided editing performance. Qualitative evaluations demonstrate that our method attains state-of-the-art results.
+To further enhance control, we introduce **Decoupled Inversion-Free Sampling (DIFS)**, which leverages **attention masking to independently adjust the editing strength** between preserved and modified regions.  
+The previous methods frequently modified regions that should have been preserved, thereby degrading overall consistency. Our **WANAlign2.1** achieves improved spatial-temporal consistency and enhanced text-guided editing performance through DIFS. As shown in [Results](), qualitative results demonstrate that our method is state-of-the-art.
 
 # Results🐦‍🔥
 ### 1️⃣Color/Background Editing
