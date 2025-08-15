@@ -176,7 +176,7 @@ python awesome_wan_editing.py --config=[__config_yaml_path__]
 > Reviewed by kyujinpy🤗.
 
 # TODO-list
-- [x] Paper Review 
+- [ ] Paper Review 
 - [x] Integrating Diffusers🤗
 - [x] Code Release
 - [x] Support WAN2.1-T2V-1.3B
