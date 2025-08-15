@@ -33,6 +33,7 @@ It performs much better than [FlowDirector🦚](https://github.com/Westlake-AGI-
 </table>
 
 - Object Editing
+  
 <table class="center">
 <tr>
   <td width=25% style="text-align:center;"><b>Input Video</b></td>
