@@ -79,7 +79,7 @@ It performs much better than [FlowDirector🦚](https://github.com/Westlake-AGI-
 <tr>
   <td><img src="https://github.com/user-attachments/assets/ba576a66-4d2f-4a76-91df-636834318b50"></td>
   <td><img src="https://github.com/user-attachments/assets/6fe5dac3-b6f0-4688-b9a4-429828ca2bdf"></td>
-  <td><img src="https://github.com/user-attachments/assets/9d3d0c6f-c804-4b86-82c9-0fa6fe3ab88e"></td>              
+  <td><img src="https://github.com/user-attachments/assets/30c3080d-2c26-41fa-ab13-f6babc097158"></td>              
   <td><img src="https://github.com/user-attachments/assets/96748619-8faf-47ba-9bf9-4ead215f5e43"></td>
 </tr>
 <tr>
