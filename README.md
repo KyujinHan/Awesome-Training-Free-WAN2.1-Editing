@@ -50,7 +50,7 @@ It performs much better than [FlowDirector🦚](https://github.com/Westlake-AGI-
   <td><video src="./results/object_editing/wanalign_bear_2_tiger.mp4" width="100%" controls autoplay loop></td>
 </tr>
 <tr>
-  <td width=100% style="text-align:center;" colspan="4">A large brown bear ... ➡️ A large tiger ...</td>
+  <td width=100% style="text-align:center;" colspan="4">A graceful sea turtle ... ➡️ A graceful seal ...</td>
 </tr>
     
 <tr>
@@ -60,7 +60,7 @@ It performs much better than [FlowDirector🦚](https://github.com/Westlake-AGI-
   <td><img src="https://github.com/user-attachments/assets/5b6b1773-11fa-4f95-9396-dcc42c59f04f"></td>
 </tr>
 <tr>
-  <td width=100% style="text-align:center;" colspan="4">A graceful sea turtle ... ➡️ A graceful seal ...</td>
+  <td width=100% style="text-align:center;" colspan="4">A large brown bear ... ➡️ A large tiger ...</td>
 </tr>
 </table>
 
