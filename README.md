@@ -2,9 +2,16 @@
 Awesome Training-Free methods meet WAN2.1-T2V (made by kyujinpy🤗)  
 It performs much better than [FlowDirector🦚](https://github.com/Westlake-AGI-Lab/FlowDirector)!!  
 
-# Simple Introduction WANAlign2.1🦖
-
 # Results🐦‍🔥
+- Object Editing
+
+- Color Editing
+
+- Texture Editing
+
+- Add Effect
+
+# Simple Introduction WANAlign2.1🦖
 
 # Quick Start (Code)🥏
 
@@ -14,8 +21,8 @@ It performs much better than [FlowDirector🦚](https://github.com/Westlake-AGI-
 > Reviewed by kyujinpy🤗.
 
 # TODO
-- [ ](Support WAN2.1-T2V-1.3B)
-- [ ](Support WAN2.1-T2V-14B)
+- [ ]Support WAN2.1-T2V-1.3B
+- [ ]Support WAN2.1-T2V-14B
 
 # References
 - [WAN2.1-T2V-1.3B](https://huggingface.co/Wan-AI/Wan2.1-T2V-1.3B)
