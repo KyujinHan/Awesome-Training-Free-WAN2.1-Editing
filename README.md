@@ -52,7 +52,9 @@ It performs much better than [FlowDirector🦚](https://github.com/Westlake-AGI-
 > Reviewed by kyujinpy🤗.
 
 # TODO
-- [x] Integrating Diffusers🤗 
+- [ ] Paper Review 
+- [x] Integrating Diffusers🤗
+- [ ] Code Release
 - [x] Support WAN2.1-T2V-1.3B
 - [ ] Support WAN2.1-T2V-14B
 
