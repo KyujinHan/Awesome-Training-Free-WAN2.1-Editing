@@ -171,7 +171,7 @@ python awesome_wan_editing.py --config=[__config_yaml_path__]
 
 # Paper Reviews✨
 - [FlowEdit Review; korean](https://kyujinpy.tistory.com/175)
-- [FlowDirector Review; korean]()
+- [FlowDirector Review; korean](https://kyujinpy.tistory.com/177)
 - [WANAlign2.1 Project; korean]()
 > Reviewed by kyujinpy🤗.
 
