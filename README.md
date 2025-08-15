@@ -6,7 +6,7 @@
 # Introduce WANAlign2.1⚡
 We present **WANAlign2.1⚡**, an inversion-free video editing framework that combines the inversion-free editing method **FlowAlign** with **WAN2.1**. By integrating FlowAlign’s inversion-free sampling equation into WAN2.1, our approach preserves the intrinsic characteristics of the source video during editing.   
 To further enhance control, we introduce **Decoupled Inversion-Free Sampling (DIFS)**, which leverages **attention masking to independently adjust the editing strength** between preserved and modified regions.  
-The previous methods frequently modified regions that should have been preserved, thereby degrading overall consistency. Our **WANAlign2.1** achieves improved spatial-temporal consistency and enhanced text-guided editing performance through DIFS.   
+The previous methods frequently modified regions that should have been preserved, thereby degrading overall consistency. Our **WANAlign2.1⚡** achieves improved spatial-temporal consistency and enhanced text-guided editing performance through DIFS.   
 As shown in [Results](https://github.com/KyujinHan/Awesome-Training-Free-WAN2.1-Editing?tab=readme-ov-file#results), qualitative results demonstrate that our method is state-of-the-art.
 
 # Results🐦‍🔥
@@ -165,14 +165,14 @@ python awesome_wan_editing.py --config=[__config_yaml_path__]
 ## Detail Code lines🏫
 - FlowEdit Code: [WanPipeline.flowedit](https://github.com/KyujinHan/Awesome-Training-Free-WAN2.1-Editing/blob/0a138c514610d8801a2469deee941514a7757ad9/diffusers/src/diffusers/pipelines/wan/pipeline_wan.py#L817)
 - FlowAlign Code: [WanPipeline.flowalign](https://github.com/KyujinHan/Awesome-Training-Free-WAN2.1-Editing/blob/0a138c514610d8801a2469deee941514a7757ad9/diffusers/src/diffusers/pipelines/wan/pipeline_wan.py#L1204)
-- WANAlign2.1 **Core** Code: [WanPipeline.flowalign](https://github.com/KyujinHan/Awesome-Training-Free-WAN2.1-Editing/blob/0a138c514610d8801a2469deee941514a7757ad9/diffusers/src/diffusers/pipelines/wan/pipeline_wan.py#L1553)
+- WANAlign2.1⚡ **Core** Code: [WanPipeline.flowalign](https://github.com/KyujinHan/Awesome-Training-Free-WAN2.1-Editing/blob/0a138c514610d8801a2469deee941514a7757ad9/diffusers/src/diffusers/pipelines/wan/pipeline_wan.py#L1553)
 - Attention Extract Code: [wan_attention](https://github.com/KyujinHan/Awesome-Training-Free-WAN2.1-Editing/blob/8c34bbc2a5eebd3fa403c46a746f10d467834b4e/utils/wan_attention.py#L447)
 > If you want to visualize attention masking maps, please activate [these code](https://github.com/KyujinHan/Awesome-Training-Free-WAN2.1-Editing/blob/0a138c514610d8801a2469deee941514a7757ad9/diffusers/src/diffusers/pipelines/wan/pipeline_wan.py#L1515).
 
 # Paper Reviews✨
 - [FlowEdit Review; korean](https://kyujinpy.tistory.com/175)
 - [FlowDirector Review; korean](https://kyujinpy.tistory.com/177)
-- [WANAlign2.1 Project; korean]()
+- [WANAlign2.1⚡ Project; korean]()
 > Reviewed by kyujinpy🤗.
 
 # TODO-list
