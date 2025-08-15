@@ -1,4 +1,4 @@
-![flowdirector_brown_2_yellow](https://github.com/user-attachments/assets/bb210852-79e2-49f9-b2eb-241d93b0eafb)# Awesome-Training-Free-WAN2.1-Editing🍀  
+# Awesome-Training-Free-WAN2.1-Editing🍀  
 **Star🌟 is a great help in open source development!**
   
 *Awesome Training-Free methods meet WAN2.1-T2V.*  
