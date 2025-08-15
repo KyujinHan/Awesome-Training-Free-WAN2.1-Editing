@@ -14,7 +14,8 @@ As shown in [Results](https://github.com/KyujinHan/Awesome-Training-Free-WAN2.1-
 | WANAlign2.1⚡| FlowDirector | WANEdit2.1 |
 | --- | --- | --- |
 | **75 seconds** | 540 seconds | 150 seconds |
-  
+> A100 80GB GPU
+
 ### 1️⃣Color/Background Editing
 
 <table border="0" width="100%">
