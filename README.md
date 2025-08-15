@@ -1,4 +1,4 @@
-# Awesome-Training-Free-WAN2.1-Editing🍀  
+![flowdirector_brown_2_yellow](https://github.com/user-attachments/assets/bb210852-79e2-49f9-b2eb-241d93b0eafb)# Awesome-Training-Free-WAN2.1-Editing🍀  
 **Star🌟 is a great help in open source development!**
   
 *Awesome Training-Free methods meet WAN2.1-T2V.*  
@@ -6,7 +6,11 @@ It performs much better than [FlowDirector🦚](https://github.com/Westlake-AGI-
 
 # Results🐦‍🔥
 - Color/Background Editing
-  
+![wanedit_brown_2_yellow](https://github.com/user-attachments/assets/ddde08a1-390d-4963-bdaf-d911c2eed2b0)
+![flowdirector_brown_2_yellow](https://github.com/user-attachments/assets/1ec1c79c-5928-4b91-a5be-bc27e3e7c671)
+![wanalign_brown_2_yellow](https://github.com/user-attachments/assets/6c4947c5-efa7-48d5-815e-5b582952c690)
+
+
 <table border="0" width="100%">
 <tr>
   <td style="text-align:center;"><b>Input Video</b></td>
@@ -16,9 +20,9 @@ It performs much better than [FlowDirector🦚](https://github.com/Westlake-AGI-
 </tr>
 <tr>
   <td><img src="https://github.com/user-attachments/assets/5153cf99-9042-4dde-8b38-4b8988b96301"></td>
-  <td><img src="https://github.com/user-attachments/assets/e1a6471e-5438-4743-a5e7-9bf96a7e5c32"></td>
-  <td><img src="https://github.com/user-attachments/assets/c293bf71-9609-4798-88e3-0e838b8af96c"></td>              
-  <td><img src="https://github.com/user-attachments/assets/5b6b1773-11fa-4f95-9396-dcc42c59f04f"></td>
+  <td><img src="https://github.com/user-attachments/assets/6c4947c5-efa7-48d5-815e-5b582952c690"></td>
+  <td><img src="https://github.com/user-attachments/assets/1ec1c79c-5928-4b91-a5be-bc27e3e7c671"></td>              
+  <td><img src="https://github.com/user-attachments/assets/ddde08a1-390d-4963-bdaf-d911c2eed2b0"></td>
 </tr>
 <tr>
   <td style="text-align:center;" colspan="4">A large brown bear ... ➡️ A large <b>yellow</b> bear ...</td>
@@ -26,9 +30,9 @@ It performs much better than [FlowDirector🦚](https://github.com/Westlake-AGI-
     
 <tr>
   <td><img src="https://github.com/user-attachments/assets/edc2d5bf-1347-4ac5-86d2-ccdd0a4a1f3e"></td>
-  <td><img src="https://github.com/user-attachments/assets/e1a6471e-5438-4743-a5e7-9bf96a7e5c32"></td>
-  <td><img src="https://github.com/user-attachments/assets/c293bf71-9609-4798-88e3-0e838b8af96c"></td>              
-  <td><img src="https://github.com/user-attachments/assets/5b6b1773-11fa-4f95-9396-dcc42c59f04f"></td>
+  <td><img src="https://github.com/user-attachments/assets/72235e9a-24f9-46a6-a172-125c715b6767"></td>
+  <td><img src="https://github.com/user-attachments/assets/76a67bca-0216-444b-b23b-b263d3393c44"></td>              
+  <td><img src="https://github.com/user-attachments/assets/f4f15adf-c0e5-44b5-a8d7-9313cb135dd0"></td>
 </tr>
 <tr>
   <td style="text-align:center;" colspan="4">... in a snowy field. ➡️ ... in the <b>ocean</b>.</td>
