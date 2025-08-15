@@ -42,19 +42,19 @@ It performs much better than [FlowDirector🦚](https://github.com/Westlake-AGI-
   <td width=25% style="text-align:center;><b>WANEdit</b></td>
 </tr>
 <tr>
-  <td><video src="./videos/bear_832.mp4" width="25%" controls autoplay loop></td>
-  <td><video src="./results/object_editing/wanalign_bear_2_tiger.mp4" width="25%" controls autoplay loop></td>
-  <td><video src="./results/object_editing/flowdirector_bear_2_tiger.mp4" width="25%" controls autoplay loop></td>              
-  <td><video src="./results/object_editing/wanalign_bear_2_tiger.mp4" width="25%" controls autoplay loop></td>
+  <td><video src="./videos/bear_832.mp4" controls autoplay loop></td>
+  <td><video src="./results/object_editing/wanalign_bear_2_tiger.mp4" controls autoplay loop></td>
+  <td><video src="./results/object_editing/flowdirector_bear_2_tiger.mp4" controls autoplay loop></td>              
+  <td><video src="./results/object_editing/wanalign_bear_2_tiger.mp4" controls autoplay loop></td>
 </tr>
 <tr>
   <td width=100% style="text-align:center;">A large brown bear ...➡️A large tiger ...</td>
 </tr>
 <tr>
-  <td><video src="./videos/sea_turtle_832" width="25%" controls autoplay loop></td>
-  <td><video src="./results/object_editing/wanalign_turtle_2_seal.mp4" width="25%" controls autoplay loop></td>
-  <td><video src="./results/object_editing/wanalign_turtle_2_seal.mp4" width="25%" controls autoplay loop></td>              
-  <td><video src="./results/object_editing/wanedit_turtle_2_seal.mp4" width="25%" controls autoplay loop></td>
+  <td><video src="./videos/sea_turtle_832" controls autoplay loop></td>
+  <td><video src="./results/object_editing/wanalign_turtle_2_seal.mp4" controls autoplay loop></td>
+  <td><video src="./results/object_editing/wanalign_turtle_2_seal.mp4" controls autoplay loop></td>              
+  <td><video src="./results/object_editing/wanedit_turtle_2_seal.mp4" controls autoplay loop></td>
 </tr>
 <tr>
   <td width=100% style="text-align:center;">A graceful sea turtle ...➡️A graceful seal ...</td>
