@@ -138,7 +138,7 @@ As shown in [Results](https://github.com/KyujinHan/Awesome-Training-Free-WAN2.1-
 
 # Quick Start (Code)🥏
 ## Environment
-```
+```bash
 torch==2.4.0+cuda12.1
 torchvision==0.19.0
 transformers==4.51.3
@@ -150,13 +150,13 @@ imageio
 ```
   
 You **must** install provided `diffusers` library.
-```
+```bash
 cd ./diffusers
 pip install -e .
 ```
   
 ## Run code🏂
-```
+```python
 python awesome_wan_editing.py --config=[__config_yaml_path__]
 # python awesome_wan_editing.py --config=./config/object_editing/bear_tiger.yaml
 ```
