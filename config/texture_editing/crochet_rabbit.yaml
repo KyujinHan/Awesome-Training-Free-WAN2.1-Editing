@@ -20,7 +20,7 @@ flowedit:
 
 flowalign:
     strength: 0.7
-    target_guidance_scale: 19.5
+    target_guidance_scale: 18.5
     flag_attnmask: True
     zeta_scale: 1e-3
     bg_zeta_scale: 1e-1
