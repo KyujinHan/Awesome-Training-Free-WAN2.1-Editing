@@ -54,7 +54,7 @@ It performs much better than [FlowDirector🦚](https://github.com/Westlake-AGI-
 </tr>
     
 <tr>
-  <td><video src="./videos/sea_turtle_832.mp4" width="100%" controls autoplay loop></td>
+  <td><video src="https://github.com/user-attachments/assets/5153cf99-9042-4dde-8b38-4b8988b96301" controls autoplay loop></td>
   <td><video src="./results/object_editing/wanalign_turtle_2_seal.mp4" width="100%" controls autoplay loop></td>
   <td><video src="./results/object_editing/flowdirector_turtle_2_seal.mp4" width="100%" controls autoplay loop></td>              
   <td><video src="./results/object_editing/wanedit_turtle_2_seal.mp4" width="100%" controls autoplay loop></td>
