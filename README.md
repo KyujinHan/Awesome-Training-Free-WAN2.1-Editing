@@ -44,7 +44,7 @@ It performs much better than [FlowDirector🦚](https://github.com/Westlake-AGI-
   <td style="text-align:center;"><b>WANEdit2.1</b></td>
 </tr>
 <tr>
-  <td><video src="./videos/bear_832.mp4" width="100%" controls autoplay loop></td>
+  <td><video src="https://github.com/user-attachments/assets/84815828-7378-4910-98e8-0bb0e64ffb64" width="100%" controls autoplay loop></td>
   <td><video src="./results/object_editing/wanalign_bear_2_tiger.mp4" width="100%" controls autoplay loop></td>
   <td><video src="./results/object_editing/flowdirector_bear_2_tiger.mp4" width="100%" controls autoplay loop></td>              
   <td><video src="./results/object_editing/wanalign_bear_2_tiger.mp4" width="100%" controls autoplay loop></td>
@@ -67,6 +67,7 @@ It performs much better than [FlowDirector🦚](https://github.com/Westlake-AGI-
 - Texture Editing
 
 - Add Effect/Object
+
 
 
 # Introduce WANAlign2.1🦖
