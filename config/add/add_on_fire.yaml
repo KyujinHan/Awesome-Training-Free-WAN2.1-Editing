@@ -1,0 +1,27 @@
+video:
+    video_path: ./videos/boat_832.mp4
+    source_prompt: A white boat is sailing through the blue ocean.
+    target_prompt: A white boat on fire is sailing through the blue ocean.
+    source_blend: white boat
+    target_blend: white boat on fire
+
+infernece:
+    num_inference_step: 50
+
+training-free-type:
+    flag_flowedit: False
+    flag_flowalign: True
+
+flowedit:
+    strength: 0.7
+    target_guidance_scale: 13.5
+    source_guidance_scale: 5.0
+    save_video: ./wanedit_add_on_fire.mp4
+
+flowalign:
+    strength: 0.7
+    target_guidance_scale: 19.5
+    flag_attnmask: True
+    zeta_scale: 1e-3
+    bg_zeta_scale: 1e-1
+    save_video: ./wanalign_add_on_fire.mp4

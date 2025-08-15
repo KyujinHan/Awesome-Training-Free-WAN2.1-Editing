@@ -1,0 +1,27 @@
+video:
+    video_path: ./videos/snowboard_832.mp4
+    source_prompt: A man wearing goggles and a helmet is snowboarding in a snowy field.
+    target_prompt: A man wearing goggles and a helmet is snowboarding in the ocean.
+    source_blend: man
+    target_blend: man
+
+infernece:
+    num_inference_step: 50
+
+training-free-type:
+    flag_flowedit: False
+    flag_flowalign: True
+
+flowedit:
+    strength: 0.76
+    target_guidance_scale: 13.5
+    source_guidance_scale: 5.0
+    save_video: ./wanedit_snowy_2_ocean.mp4
+
+flowalign:
+    strength: 0.76
+    target_guidance_scale: 19.5
+    flag_attnmask: True
+    zeta_scale: 1e-1
+    bg_zeta_scale: 1e-3
+    save_video: ./wanalign_snowy_2_ocean.mp4

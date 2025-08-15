@@ -1,0 +1,27 @@
+video:
+    video_path: ./videos/bear_832.mp4
+    source_prompt: A large brown bear walking on a rocky ledge within a habitat surrounded by stone walls and lush green foliage.
+    target_prompt: A large tiger walking on a rocky ledge within a habitat surrounded by stone walls and lush green foliage.
+    source_blend: brown bear
+    target_blend: tiger
+
+infernece:
+    num_inference_step: 50
+
+training-free-type:
+    flag_flowedit: False
+    flag_flowalign: True
+
+flowedit:
+    strength: 0.7
+    target_guidance_scale: 13.5
+    source_guidance_scale: 5.0
+    save_video: ./wanedit_bear_2_tiger.mp4
+
+flowalign:
+    strength: 0.7
+    target_guidance_scale: 19.5
+    flag_attnmask: False
+    zeta_scale: 1e-3
+    bg_zeta_scale: 1e-3
+    save_video: ./wanalign_bear_2_tiger.mp4

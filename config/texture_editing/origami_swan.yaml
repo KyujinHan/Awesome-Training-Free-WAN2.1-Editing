@@ -1,0 +1,27 @@
+video:
+    video_path: ./videos/blackswan_832.mp4
+    source_prompt: A black swan is swimming across a serene pond. The background consists of lush greenery and a concrete barrier, creating a peaceful scene.
+    target_prompt: A silver statue swan carrying a turtle is swimming across a serene pond. The background consists of lush greenery and a concrete barrier, creating a peaceful scene.
+    source_blend: black swan
+    target_blend: silver statue swan carrying a turtle
+
+infernece:
+    num_inference_step: 50
+
+training-free-type:
+    flag_flowedit: False
+    flag_flowalign: True
+
+flowedit:
+    strength: 0.8
+    target_guidance_scale: 12.0
+    source_guidance_scale: 5.0
+    save_video: ./wanedit_silver_statue_swan_carrying_turtle.mp4
+
+flowalign:
+    strength: 0.76
+    target_guidance_scale: 19.5
+    flag_attnmask: False
+    zeta_scale: 1e-3
+    bg_zeta_scale: 1e-3
+    save_video: ./wanalign_silver_statue_swan_carrying_turtle.mp4
