@@ -14,18 +14,18 @@ It performs much better than [FlowDirector🦚](https://github.com/Westlake-AGI-
 </tr>
 <tr>
   <td><video src="./videos/bear_832.mp4" width="100%" controls autoplay loop></td>
-  <td><video src="./results/background_color_editing/wanalign_brown_2_yellow" width="100%" controls autoplay loop></td>
-  <td><video src="./results/background_color_editing/flowdirector_brown_2_yellow" width="100%" controls autoplay loop></td>              
-  <td><video src="./results/background_color_editing/wanedit_brown_2_yellow" width="100%" controls autoplay loop></td>
+  <td><video src="./results/background_color_editing/wanalign_brown_2_yellow.mp4" width="100%" controls autoplay loop></td>
+  <td><video src="./results/background_color_editing/flowdirector_brown_2_yellow.mp4" width="100%" controls autoplay loop></td>              
+  <td><video src="./results/background_color_editing/wanedit_brown_2_yellow.mp4" width="100%" controls autoplay loop></td>
 </tr>
 <tr>
   <td width=100% style="text-align:center;" colspan="4">A large brown bear ...➡️A large yellow bear ...</td>
 </tr>
 <tr>
   <td><video src="./videos/snowboard_832.mp4" width="100%" controls autoplay loop></td>
-  <td><video src="./results/background_color_editing/wanalign_snowy_2_ocean" width="100%" controls autoplay loop></td>
-  <td><video src="./results/background_color_editing/flowdirector_snowy_2_ocean" width="100%" controls autoplay loop></td>              
-  <td><video src="./results/background_color_editing/wanedit_snowy_2_ocean" width="100%" controls autoplay loop></td>
+  <td><video src="./results/background_color_editing/wanalign_snowy_2_ocean.mp4" width="100%" controls autoplay loop></td>
+  <td><video src="./results/background_color_editing/flowdirector_snowy_2_ocean.mp4" width="100%" controls autoplay loop></td>              
+  <td><video src="./results/background_color_editing/wanedit_snowy_2_ocean.mp4" width="100%" controls autoplay loop></td>
 </tr>
 <tr>
   <td width=100% style="text-align:center;color:gray;" colspan="4">... in a snowy field.➡️... in the ocean.</td>
