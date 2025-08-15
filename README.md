@@ -165,8 +165,9 @@ python awesome_wan_editing.py --config=[__config_yaml_path__]
 ## Detail Code lines🏫
 - FlowEdit Code: [WanPipelin.flowedit]()
 - FlowAlign Code: [WanPipelin.flowalign]()
-- Attention Extract Code: [wan_attention](https://github.com/KyujinHan/Awesome-Training-Free-WAN2.1-Editing/blob/221507b8070dd5610af911b762a5c2bead31120c/utils/wan_attention.py#L293)
 - WANAlign Code: [WanPipelin.flowalign]()
+- Attention Extract Code: [wan_attention](https://github.com/KyujinHan/Awesome-Training-Free-WAN2.1-Editing/blob/221507b8070dd5610af911b762a5c2bead31120c/utils/wan_attention.py#L293)
+> If you want to visualize attention masking maps, please activate [these code]().
 
 # Paper Reviews✨
 - [FlowEdit Review; korean](https://kyujinpy.tistory.com/175)
