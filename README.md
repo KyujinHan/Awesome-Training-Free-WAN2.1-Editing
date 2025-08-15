@@ -15,19 +15,20 @@ It performs much better than [FlowDirector🦚](https://github.com/Westlake-AGI-
   <td style="text-align:center;"><b>WANEdit2.1</b></td>
 </tr>
 <tr>
-  <td><video src="./videos/bear_832.mp4" width="100%" controls autoplay loop></td>
-  <td><video src="./results/background_color_editing/wanalign_brown_2_yellow.mp4" width="100%" controls autoplay loop></td>
-  <td><video src="./results/background_color_editing/flowdirector_brown_2_yellow.mp4" width="100%" controls autoplay loop></td>              
-  <td><video src="./results/background_color_editing/wanedit_brown_2_yellow.mp4" width="100%" controls autoplay loop></td>
+  <td><img src="https://github.com/user-attachments/assets/5153cf99-9042-4dde-8b38-4b8988b96301"></td>
+  <td><img src="https://github.com/user-attachments/assets/e1a6471e-5438-4743-a5e7-9bf96a7e5c32"></td>
+  <td><img src="https://github.com/user-attachments/assets/c293bf71-9609-4798-88e3-0e838b8af96c"></td>              
+  <td><img src="https://github.com/user-attachments/assets/5b6b1773-11fa-4f95-9396-dcc42c59f04f"></td>
 </tr>
 <tr>
   <td style="text-align:center;" colspan="4">A large brown bear ... ➡️ A large yellow bear ...</td>
 </tr>
+    
 <tr>
-  <td><video src="./videos/snowboard_832.mp4" width="100%" controls autoplay loop></td>
-  <td><video src="./results/background_color_editing/wanalign_snowy_2_ocean.mp4" width="100%" controls autoplay loop></td>
-  <td><video src="./results/background_color_editing/flowdirector_snowy_2_ocean.mp4" width="100%" controls autoplay loop></td>              
-  <td><video src="./results/background_color_editing/wanedit_snowy_2_ocean.mp4" width="100%" controls autoplay loop></td>
+  <td><img src="https://github.com/user-attachments/assets/5153cf99-9042-4dde-8b38-4b8988b96301"></td>
+  <td><img src="https://github.com/user-attachments/assets/e1a6471e-5438-4743-a5e7-9bf96a7e5c32"></td>
+  <td><img src="https://github.com/user-attachments/assets/c293bf71-9609-4798-88e3-0e838b8af96c"></td>              
+  <td><img src="https://github.com/user-attachments/assets/5b6b1773-11fa-4f95-9396-dcc42c59f04f"></td>
 </tr>
 <tr>
   <td style="text-align:center;" colspan="4">... in a snowy field. ➡️ ... in the ocean.</td>
@@ -44,10 +45,10 @@ It performs much better than [FlowDirector🦚](https://github.com/Westlake-AGI-
   <td style="text-align:center;"><b>WANEdit2.1</b></td>
 </tr>
 <tr>
-  <td><video src="./videos/bear_832.mp4" controls autoplay loop></td>
-  <td><video src="https://github.com/user-attachments/assets/c31bb549-389e-4d54-91dc-fe8ac3ed57f9"></td>
-  <td><video src="https://github.com/user-attachments/assets/de23489a-5b5e-4938-92e0-1248664d4a9f"></td>              
-  <td><video src="https://github.com/user-attachments/assets/a524ffba-f92f-480c-918b-fd0c3d7acbdd"></td>
+  <td><img src="https://github.com/user-attachments/assets/6f8231cf-5ac9-499c-a6bb-38f5c39798a8"></td>
+  <td><img src="https://github.com/user-attachments/assets/c31bb549-389e-4d54-91dc-fe8ac3ed57f9"></td>
+  <td><img src="https://github.com/user-attachments/assets/de23489a-5b5e-4938-92e0-1248664d4a9f"></td>              
+  <td><img src="https://github.com/user-attachments/assets/a524ffba-f92f-480c-918b-fd0c3d7acbdd"></td>
 </tr>
 <tr>
   <td width=100% style="text-align:center;" colspan="4">A graceful sea turtle ... ➡️ A graceful <b>seal</b> ...</td>
