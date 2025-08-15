@@ -49,7 +49,7 @@ It performs much better than [FlowDirector🦚](https://github.com/Westlake-AGI-
   <td><video src="./results/object_editing/wanedit_bear_2_tiger.mp4"></td>
 </tr>
 <tr>
-  <td width=100% style="text-align:center;" colspan="4">A large brown bear ...➡️A large tiger ...</td>
+  <td width=100% style="text-align:center;">A large brown bear ...➡️A large tiger ...</td>
 </tr>
 
 <tr>
@@ -59,7 +59,7 @@ It performs much better than [FlowDirector🦚](https://github.com/Westlake-AGI-
   <td><video src="./results/object_editing/wanedit_turtle_2_seal.mp4"></td>
 </tr>
 <tr>
-  <td width=100% style="text-align:center;color:gray;" colspan="4">A graceful sea turtle ...➡️A graceful seal ...</td>
+  <td width=100% style="text-align:center;color:gray;">A graceful sea turtle ...➡️A graceful seal ...</td>
 </tr>
 </table>
 
