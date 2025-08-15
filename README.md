@@ -166,8 +166,8 @@ python awesome_wan_editing.py --config=[__config_yaml_path__]
 - FlowEdit Code: [WanPipeline.flowedit](https://github.com/KyujinHan/Awesome-Training-Free-WAN2.1-Editing/blob/0a138c514610d8801a2469deee941514a7757ad9/diffusers/src/diffusers/pipelines/wan/pipeline_wan.py#L817)
 - FlowAlign Code: [WanPipeline.flowalign](https://github.com/KyujinHan/Awesome-Training-Free-WAN2.1-Editing/blob/0a138c514610d8801a2469deee941514a7757ad9/diffusers/src/diffusers/pipelines/wan/pipeline_wan.py#L1204)
 - WANAlign2.1 **Core** Code: [WanPipeline.flowalign](https://github.com/KyujinHan/Awesome-Training-Free-WAN2.1-Editing/blob/0a138c514610d8801a2469deee941514a7757ad9/diffusers/src/diffusers/pipelines/wan/pipeline_wan.py#L1553)
-- Attention Extract Code: [wan_attention](https://github.com/KyujinHan/Awesome-Training-Free-WAN2.1-Editing/blob/0a138c514610d8801a2469deee941514a7757ad9/diffusers/src/diffusers/pipelines/wan/pipeline_wan.py#L1515)
-> If you want to visualize attention masking maps, please activate [these code](https://github.com/KyujinHan/Awesome-Training-Free-WAN2.1-Editing/blob/45cf87c84d08d4c8fdd364523fbe1fcbd5ad8298/diffusers/src/diffusers/pipelines/wan/pipeline_wan.py#L1515).
+- Attention Extract Code: [wan_attention](https://github.com/KyujinHan/Awesome-Training-Free-WAN2.1-Editing/blob/8c34bbc2a5eebd3fa403c46a746f10d467834b4e/utils/wan_attention.py#L447)
+> If you want to visualize attention masking maps, please activate [these code](https://github.com/KyujinHan/Awesome-Training-Free-WAN2.1-Editing/blob/0a138c514610d8801a2469deee941514a7757ad9/diffusers/src/diffusers/pipelines/wan/pipeline_wan.py#L1515).
 
 # Paper Reviews✨
 - [FlowEdit Review; korean](https://kyujinpy.tistory.com/175)
