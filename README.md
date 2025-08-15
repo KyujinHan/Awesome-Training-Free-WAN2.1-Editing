@@ -34,7 +34,7 @@ It performs much better than [FlowDirector🦚](https://github.com/Westlake-AGI-
 
 - Object Editing
 
-<table class="center">
+<table border="0" style="width: 100%; text-align: left; margin-top: 20px;">
 <tr>
   <td width=25% style="text-align:center;"><b>Input Video</b></td>
   <td width=25% style="text-align:center;><b>WANAlign2.1</b></td>
