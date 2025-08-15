@@ -7,7 +7,7 @@ It performs much better than [FlowDirector🦚](https://github.com/Westlake-AGI-
 # Results🐦‍🔥
 - Color/Background Editing
 
-<table>
+<table border="0" width="100%">
 <tr>
   <td style="text-align:center;"><b>Input Video</b></td>
   <td style="text-align:center;"><b>WANAlign2.1⚡</b></td>
@@ -21,7 +21,7 @@ It performs much better than [FlowDirector🦚](https://github.com/Westlake-AGI-
   <td><img src="https://github.com/user-attachments/assets/ddde08a1-390d-4963-bdaf-d911c2eed2b0"></td>
 </tr>
 <tr>
-  <td style="text-align:center;" colspan="4">A large brown bear ... ➡️ A large <b>yellow</b> bear ...</td>
+  <td width=100% style="text-align:center;" colspan="4">A large brown bear ... ➡️ A large <b>yellow</b> bear ...</td>
 </tr>
     
 <tr>
@@ -31,7 +31,7 @@ It performs much better than [FlowDirector🦚](https://github.com/Westlake-AGI-
   <td><img src="https://github.com/user-attachments/assets/f4f15adf-c0e5-44b5-a8d7-9313cb135dd0"></td>
 </tr>
 <tr>
-  <td style="text-align:center;" colspan="4">... in a snowy field. ➡️ ... in the <b>ocean</b>.</td>
+  <td width=100% style="text-align:center;" colspan="4">... in a snowy field. ➡️ ... in the <b>ocean</b>.</td>
 </tr>
 </table>
 
