@@ -11,6 +11,11 @@ The previous methods frequently modified regions that should have been preserved
 As shown in [Results](https://github.com/KyujinHan/Awesome-Training-Free-WAN2.1-Editing?tab=readme-ov-file#results), qualitative results demonstrate that our method is state-of-the-art.
 
 # Results🐦‍🔥
+### Inference speed
+| WANAlign2.1⚡| FlowDirector | WANEdit2.1 |
+| --- | --- | --- |
+| about 105 sec. | about 540 sec. | about 150 sec. |
+  
 ### 1️⃣Color/Background Editing
 
 <table border="0" width="100%">
@@ -159,7 +164,7 @@ python awesome_wan_editing.py --config=[__config_yaml_path__]
 ## Detail Code lines🏫
 - FlowEdit Code: [WanPipelin.flowedit]()
 - FlowAlign Code: [WanPipelin.flowalign]()
-- Attention Extract Code: [wan_attention]()
+- Attention Extract Code: [wan_attention](https://github.com/KyujinHan/Awesome-Training-Free-WAN2.1-Editing/blob/221507b8070dd5610af911b762a5c2bead31120c/utils/wan_attention.py#L293)
 - WANAlign Code: [WanPipelin.flowalign]()
 
 # Paper Reviews✨
