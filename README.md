@@ -12,7 +12,6 @@ It performs much better than [FlowDirector🦚](https://github.com/Westlake-AGI-
   <td style="text-align:center;><b>FlowDirector</b></td>
   <td style="text-align:center;><b>WANEdit</b></td>
 </tr>
-    
 <tr>
   <td><video src="./videos/bear_832.mp4"></td>
   <td><video src="./results/background_color_editing/wanalign_brown_2_yellow"></td>
@@ -22,7 +21,6 @@ It performs much better than [FlowDirector🦚](https://github.com/Westlake-AGI-
 <tr>
   <td width=100% style="text-align:center;" colspan="4">A large brown bear ...➡️A large yellow bear ...</td>
 </tr>
-
 <tr>
   <td><video src="./videos/snowboard_832.mp4"></td>
   <td><video src="./results/background_color_editing/wanalign_snowy_2_ocean"></td>
@@ -42,7 +40,6 @@ It performs much better than [FlowDirector🦚](https://github.com/Westlake-AGI-
   <td width=25% style="text-align:center;><b>FlowDirector</b></td>
   <td width=25% style="text-align:center;><b>WANEdit</b></td>
 </tr>
-    
 <tr>
   <td><video src="./videos/bear_832.mp4"></td>
   <td><video src="./results/object_editing/wanalign_bear_2_tiger.mp4"></td>
@@ -52,7 +49,6 @@ It performs much better than [FlowDirector🦚](https://github.com/Westlake-AGI-
 <tr>
   <td width=100% style="text-align:center;" colspan=4>A large brown bear ...➡️A large tiger ...</td>
 </tr>
-  
 <tr>
   <td><video src="./videos/sea_turtle_832"></td>
   <td><video src="./results/object_editing/wanalign_turtle_2_seal.mp4"></td>
