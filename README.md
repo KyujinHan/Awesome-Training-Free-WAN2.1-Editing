@@ -55,9 +55,9 @@ It performs much better than [FlowDirector🦚](https://github.com/Westlake-AGI-
     
 <tr>
   <td><img src="https://github.com/user-attachments/assets/5153cf99-9042-4dde-8b38-4b8988b96301"></td>
-  <td><video src="./results/object_editing/wanalign_turtle_2_seal.mp4" width="100%" controls autoplay loop></td>
-  <td><video src="./results/object_editing/flowdirector_turtle_2_seal.mp4" width="100%" controls autoplay loop></td>              
-  <td><video src="./results/object_editing/wanedit_turtle_2_seal.mp4" width="100%" controls autoplay loop></td>
+  <td><img src="./results/object_editing/wanalign_turtle_2_seal.mp4" width="100%" controls autoplay loop></td>
+  <td><img src="https://github.com/user-attachments/assets/c293bf71-9609-4798-88e3-0e838b8af96c"></td>              
+  <td><img src="https://github.com/user-attachments/assets/5b6b1773-11fa-4f95-9396-dcc42c59f04f"></td>
 </tr>
 <tr>
   <td width=100% style="text-align:center;" colspan="4">A graceful sea turtle ... ➡️ A graceful seal ...</td>
@@ -67,8 +67,6 @@ It performs much better than [FlowDirector🦚](https://github.com/Westlake-AGI-
 - Texture Editing
 
 - Add Effect/Object
-
-
 
 
 # Introduce WANAlign2.1🦖
