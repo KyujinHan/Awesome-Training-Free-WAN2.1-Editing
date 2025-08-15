@@ -6,12 +6,8 @@ It performs much better than [FlowDirector🦚](https://github.com/Westlake-AGI-
 
 # Results🐦‍🔥
 - Color/Background Editing
-![wanedit_brown_2_yellow](https://github.com/user-attachments/assets/ddde08a1-390d-4963-bdaf-d911c2eed2b0)
-![flowdirector_brown_2_yellow](https://github.com/user-attachments/assets/1ec1c79c-5928-4b91-a5be-bc27e3e7c671)
-![wanalign_brown_2_yellow](https://github.com/user-attachments/assets/6c4947c5-efa7-48d5-815e-5b582952c690)
 
-
-<table border="0" width="100%">
+<table>
 <tr>
   <td style="text-align:center;"><b>Input Video</b></td>
   <td style="text-align:center;"><b>WANAlign2.1⚡</b></td>
