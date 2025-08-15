@@ -10,7 +10,7 @@ The previous methods frequently modified regions that should have been preserved
 As shown in [Results](https://github.com/KyujinHan/Awesome-Training-Free-WAN2.1-Editing?tab=readme-ov-file#results), qualitative results demonstrate that our method is state-of-the-art.
 
 # Results🐦‍🔥
-### Inference speed
+### 0️⃣Inference speed
 | WANAlign2.1⚡| FlowDirector | WANEdit2.1 |
 | --- | --- | --- |
 | **75 seconds** | 540 seconds | 150 seconds |
