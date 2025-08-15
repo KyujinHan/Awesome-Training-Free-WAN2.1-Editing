@@ -86,7 +86,7 @@ It performs much better than [FlowDirector🦚](https://github.com/Westlake-AGI-
 ## Detail Code lines🏫
 - FlowEdit Code: [WanPipelin.flowedit]()
 - FlowAlign Code: [WanPipelin.flowalign]()
-- Attention Masking Code: [wan_attention]()
+- Attention Extract Code: [wan_attention]()
 - WANAlign Code: [WanPipelin.flowalign]()
 
 # Paper Review✨
