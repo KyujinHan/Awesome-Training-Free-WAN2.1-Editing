@@ -34,12 +34,12 @@ It performs much better than [FlowDirector🦚](https://github.com/Westlake-AGI-
 
 - Object Editing
 
-<table border="0" style="width: 100%; margin-top: 20px;">
+<table border="0" style="margin-top: 20px;">
 <tr>
   <td width=25% style="text-align:center;"><b>Input Video</b></td>
-  <td width=25% style="text-align:center;"><b>WANAlign</b></td>
+  <td width=25% style="text-align:center;"><b>WANAlign2.1</b></td>
   <td width=25% style="text-align:center;"><b>FlowDirector</b></td>
-  <td width=25% style="text-align:center;"><b>WANEdit</b></td>
+  <td width=25% style="text-align:center;"><b>WANEdit2.1</b></td>
 </tr>
 <tr>
   <td><video src="./videos/bear_832.mp4" controls autoplay loop></td>
@@ -48,7 +48,7 @@ It performs much better than [FlowDirector🦚](https://github.com/Westlake-AGI-
   <td><video src="./results/object_editing/wanalign_bear_2_tiger.mp4" controls autoplay loop></td>
 </tr>
 <tr>
-  <td width=100% style="text-align:center;" colspan="4">A large brown bear ...➡️A large yellow bear ...</td>
+  <td width=100% style="text-align:center;" colspan="4">A large brown bear ...➡️A large tiger ...</td>
 </tr>
     
 <tr>
@@ -58,7 +58,7 @@ It performs much better than [FlowDirector🦚](https://github.com/Westlake-AGI-
   <td><video src="./results/object_editing/wanedit_turtle_2_seal.mp4" controls autoplay loop></td>
 </tr>
 <tr>
-  <td width=100% style="text-align:center;color:gray;" colspan="4">... in a snowy field.➡️... in the ocean.</td>
+  <td width=100% style="text-align:center;" colspan="4">A graceful sea turtle ...➡️A graceful seal ...</td>
 </tr>
 </table>
 
