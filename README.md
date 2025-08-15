@@ -5,13 +5,41 @@ It performs much better than [FlowDirector🦚](https://github.com/Westlake-AGI-
 # Results🐦‍🔥
 - Color Editing
 
+- Background Editing
+
 - Object Editing
+<table class="center">
+<tr>
+  <td style="text-align:center;"><b>Input Video</b></td>
+  <td style="text-align:center;><b>WANAlign2.1</b></td>
+  <td style="text-align:center;><b>FlowDirector</b></td>
+  <td style="text-align:center;><b>WANEdit</b></td>
+</tr>
+<tr>
+  <td><img src="./videos/bear_832.mp4"></td>
+  <td><img src="./results/object_editing/wanalign_bear_2_tiger.mp4"></td>
+  <td><img src="./results/object_editing/flowdirector_bear_2_tiger.mp4"></td>              
+  <td><img src="./results/object_editing/wanedit_bear_2_tiger.mp4"></td>
+</tr>
+<tr>
+  <td width=100% style="text-align:center;color:gray;">"A large brown bear ...➡️A large tiger ..."</td>
+</tr>
+
+<tr>
+  <td><img src="./videos/sea_turtle_832"></td>
+  <td><img src="./results/object_editing/video4.gif"></td>
+  <td><img src="./results/object_editing/video5.gif"></td>           
+  <td><img src="./results/object_editing/video6.gif"></td>
+</tr>
+<tr>
+  <td width=100% style="text-align:center;color:gray;">"A rabbit is eating a watermelon on the table"</td>
+</tr>
+</table>
 
 - Texture Editing
 
-- Add Effect
+- Add Effect/Object
 
-- Add Object
 
 # Simple Introduction WANAlign2.1🦖
 
