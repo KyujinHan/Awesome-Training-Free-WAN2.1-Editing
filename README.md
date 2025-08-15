@@ -163,7 +163,7 @@ python awesome_wan_editing.py --config=[__config_yaml_path__]
 - WANAlign Code: [WanPipelin.flowalign]()
 
 # Paper Review✨
-- [FlowEdit Review; korean]()
+- [FlowEdit Review; korean](https://kyujinpy.tistory.com/175)
 - [FlowDirector Review; korean]()
 - [WANAlign2.1 Project; korean]()
 > Reviewed by kyujinpy🤗.
