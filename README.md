@@ -158,6 +158,7 @@ pip install -e .
 ## Run code🏂
 ```
 python awesome_wan_editing.py --config=[__config_yaml_path__]
+# python awesome_wan_editing.py --config=./config/object_editing/bear_tiger.yaml
 ```
 > There are some config file [examples](https://github.com/KyujinHan/Awesome-Training-Free-WAN2.1-Editing/tree/master/config).
   
