@@ -5,12 +5,12 @@ It performs much better than [FlowDirector🦚](https://github.com/Westlake-AGI-
 # Results🐦‍🔥
 - Color/Background Editing
   
-<table border="0" style="width: 100%; text-align: left; margin-top: 20px;">
+<table border="0" width="100%">
 <tr>
-  <td width=25% style="text-align:center;"><b>Input Video</b></td>
-  <td width=25% style="text-align:center;><b>WANAlign2.1</b></td>
-  <td width=25% style="text-align:center;><b>FlowDirector</b></td>
-  <td width=25% style="text-align:center;><b>WANEdit</b></td>
+  <td style="text-align:center;"><b>Input Video</b></td>
+  <td style="text-align:center;"><b>WANAlign2.1</b></td>
+  <td style="text-align:center;"><b>FlowDirector</b></td>
+  <td style="text-align:center;"><b>WANEdit2.1</b></td>
 </tr>
 <tr>
   <td><video src="./videos/bear_832.mp4" width="100%" controls autoplay loop></td>
@@ -19,7 +19,7 @@ It performs much better than [FlowDirector🦚](https://github.com/Westlake-AGI-
   <td><video src="./results/background_color_editing/wanedit_brown_2_yellow.mp4" width="100%" controls autoplay loop></td>
 </tr>
 <tr>
-  <td width=100% style="text-align:center;" colspan="4">A large brown bear ... ➡️ A large yellow bear ...</td>
+  <td style="text-align:center;" colspan="4">A large brown bear ... ➡️ A large yellow bear ...</td>
 </tr>
 <tr>
   <td><video src="./videos/snowboard_832.mp4" width="100%" controls autoplay loop></td>
@@ -28,7 +28,7 @@ It performs much better than [FlowDirector🦚](https://github.com/Westlake-AGI-
   <td><video src="./results/background_color_editing/wanedit_snowy_2_ocean.mp4" width="100%" controls autoplay loop></td>
 </tr>
 <tr>
-  <td width=100% style="text-align:center;color:gray;" colspan="4">... in a snowy field. ➡️ ... in the ocean.</td>
+  <td style="text-align:center;color:gray;" colspan="4">... in a snowy field. ➡️ ... in the ocean.</td>
 </tr>
 </table>
 
@@ -52,7 +52,7 @@ It performs much better than [FlowDirector🦚](https://github.com/Westlake-AGI-
 </tr>
     
 <tr>
-  <td><video src="./videos/sea_turtle_832" width="100%" controls autoplay loop></video></td>
+  <td><video src="./videos/sea_turtle_832.mp4" width="100%" controls autoplay loop></video></td>
   <td><video src="./results/object_editing/wanalign_turtle_2_seal.mp4" width="100%" controls autoplay loop></video></td>
   <td><video src="./results/object_editing/flowdirector_turtle_2_seal.mp4" width="100%" controls autoplay loop></video></td>              
   <td><video src="./results/object_editing/wanedit_turtle_2_seal.mp4" width="100%" controls autoplay loop></video></td>
