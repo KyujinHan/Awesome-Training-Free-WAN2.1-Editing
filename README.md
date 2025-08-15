@@ -44,7 +44,7 @@ It performs much better than [FlowDirector🦚](https://github.com/Westlake-AGI-
   <td style="text-align:center;"><b>WANEdit2.1</b></td>
 </tr>
 <tr>
-  <td><video src="./videos/bear_832.mp4" width="100%" controls autoplay loop></td>
+  <td><source src="./videos/bear_832.mp4" type="video/mp4" controls autoplay loop></td>
   <td><video src="./results/object_editing/wanalign_bear_2_tiger.mp4" width="100%" controls autoplay loop></td>
   <td><video src="./results/object_editing/flowdirector_bear_2_tiger.mp4" width="100%" controls autoplay loop></td>              
   <td><video src="./results/object_editing/wanalign_bear_2_tiger.mp4" width="100%" controls autoplay loop></td>
