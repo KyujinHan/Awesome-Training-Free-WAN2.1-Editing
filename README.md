@@ -3,9 +3,7 @@ Awesome Training-Free methods meet WAN2.1-T2V.
 It performs much better than [FlowDirector🦚](https://github.com/Westlake-AGI-Lab/FlowDirector)!!  
 
 # Results🐦‍🔥
-- Color Editing
-
-- Background Editing
+- Color/Background Editing
 
 - Object Editing
 <table class="center">
