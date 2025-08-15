@@ -1,7 +1,7 @@
 # Awesome-Training-Free-WAN2.1-Editing🍀  
 **Star🌟 is a great help in open source development!**
   
-Awesome Training-Free methods meet WAN2.1-T2V.  
+*Awesome Training-Free methods meet WAN2.1-T2V.*
 It performs much better than [FlowDirector🦚](https://github.com/Westlake-AGI-Lab/FlowDirector)!!  
 
 # Results🐦‍🔥
