@@ -11,6 +11,8 @@ It performs much better than [FlowDirector🦚](https://github.com/Westlake-AGI-
 
 - Add Effect
 
+- Add Object
+
 # Simple Introduction WANAlign2.1🦖
 
 # Quick Start (Code)🥏
