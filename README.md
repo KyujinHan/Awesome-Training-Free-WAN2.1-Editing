@@ -186,8 +186,9 @@ python awesome_wan_editing.py --config=[__config_yaml_path__]
 ```
 > There are some config file [examples](https://github.com/KyujinHan/Awesome-Training-Free-WAN2.1-Editing/tree/master/config).
   
-In FlowAlign, there is `zeta_scale`.  
-If the value is high, it will be similar to the source video. The `bg_zeta_scale` value is only activated when `flag_attnmask` is `True`.  
+In **FlowAlign**, there is `zeta_scale`.  
+If the value is high, it will be similar to the source video.  
+The `bg_zeta_scale` value is only activated when `flag_attnmask` is `True`.  
 
 ## Detail Code lines🏫
 - FlowEdit Code: [WanPipeline.flowedit](https://github.com/KyujinHan/Awesome-Training-Free-WAN2.1-Editing/blob/d93d928a88b2f85b1e9d4494dd36182e9459f391/diffusers/src/diffusers/pipelines/wan/pipeline_wan.py#L817)
