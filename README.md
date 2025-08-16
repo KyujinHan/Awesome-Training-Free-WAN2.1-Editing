@@ -8,7 +8,6 @@
   <img src="./utils/model.gif" alt="animated"/>
 </p>  
 <p align="center">
-    <a href="https://github.com/huggingface/diffusers/blob/main/LICENSE"><img alt="GitHub" src="https://img.shields.io/github/license/huggingface/datasets.svg?color=blue"></a>
     <a href="https://kyujinpy.tistory.com/178"><img alt="Static Badge" src="https://img.shields.io/badge/Blog-WANAlign2.1-orange?label=Blog"></a>
     <a href="https://github.com/KyujinHan/Awesome-Training-Free-WAN2.1-Editing/tree/master/diffusers"><img alt="Static Badge" src="https://img.shields.io/badge/Diffusers-yellow?label=Library"></a>
 </p>
