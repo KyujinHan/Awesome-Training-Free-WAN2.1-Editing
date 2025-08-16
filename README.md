@@ -137,6 +137,16 @@ As shown in [Results](https://github.com/KyujinHan/Awesome-Training-Free-WAN2.1-
 <tr>
   <td width=100% style="text-align:center;" colspan="4">... ➡️ ... <b>In the sky, a large eagle is flying forward.</b></td>
 </tr>
+
+<tr>
+  <td><img src="https://github.com/user-attachments/assets/5153cf99-9042-4dde-8b38-4b8988b96301"></td>
+  <td><img src="https://github.com/user-attachments/assets/75df3ff2-c28f-40bc-9b6c-3ce72cd1da77"></td>
+  <td><img src="https://github.com/user-attachments/assets/ffc426e7-3817-48fe-a602-43e98bfb3e6a"></td>              
+  <td><img src="https://github.com/user-attachments/assets/2f3a5ae2-669c-4129-b3a9-b33e6e0e438b"></td>
+</tr>
+<tr>
+  <td width=100% style="text-align:center;" colspan="4">A large brown bear ... ➡️ A large brown bear <b>wearing a hat</b> ...</td>
+</tr>
 </table>
 
 # Quick Start (Code)🥏
