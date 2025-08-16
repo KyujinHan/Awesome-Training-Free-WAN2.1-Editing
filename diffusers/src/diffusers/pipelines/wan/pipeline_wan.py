@@ -1542,7 +1542,7 @@ class WanPipeline(DiffusionPipeline, WanLoraLoaderMixin):
                     vq_source,
                     vp_source,
                     vp_target
-                ) = concat_flow_pred.chunk(4, dim=0)
+                ) = concat_flow_pred.chunk(3, dim=0)
 
                 ## TODO: Flowalign으로 수정
                 vp = vp_source + self.target_guidance_scale * (vp_target - vp_source)
