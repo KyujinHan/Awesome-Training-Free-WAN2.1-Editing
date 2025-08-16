@@ -157,6 +157,14 @@ As shown in the [Results](https://github.com/KyujinHan/Awesome-Training-Free-WAN
 # Quick Start (Code)🥏
 ## Environment
 ```bash
+git clone https://github.com/KyujinHan/Awesome-Training-Free-WAN2.1-Editing.git
+conda create -n wanalign python=3.10 -y
+conda install pytorch==2.4.0 torchvision==0.19.0 torchaudio==2.4.0 pytorch-cuda=12.1 -c pytorch -c nvidia
+pip install matplotlib
+pip install omegaconf
+pip install imageio
+pip install numpy==1.26.4
+
 torch==2.4.0+cuda12.1
 torchvision==0.19.0
 transformers==4.51.3
@@ -166,6 +174,7 @@ omegaconf
 argparser
 imageio
 ```
+> I used one A100 80GB GPU.
   
 You **must** install provided `diffusers` library.
 ```bash
