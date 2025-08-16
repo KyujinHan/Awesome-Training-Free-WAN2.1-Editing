@@ -191,7 +191,6 @@ python awesome_wan_editing.py --config=[__config_yaml_path__]
 - [x] Integrating Diffusers🤗
 - [x] Code Release
 - [x] Support WAN2.1-T2V-1.3B
-- [ ] Support WAN2.1-T2V-14B
 
 # References
 - [WAN2.1-T2V-1.3B](https://huggingface.co/Wan-AI/Wan2.1-T2V-1.3B)
