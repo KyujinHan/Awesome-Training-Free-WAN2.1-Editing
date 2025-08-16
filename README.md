@@ -4,7 +4,7 @@
 *Awesome Training-Free (Inversion-Free) methods meet WAN2.1-T2V.*  
 - WAN2.1 + FlowEdit
 - WAN2.1 + FlowAlign
-- WANAlign2.1 (new)
+- WANAlign2.1⚡ (FlowAlign + masking method)
 
 # Introduce WANAlign2.1⚡
 <p align="center">
