@@ -168,13 +168,13 @@ pip install matplotlib omegaconf imageio
 pip install transformers==4.51.3 accelerate
 pip install imageio[ffmpeg] ftfy
 ```
-> I used one A100 80GB GPU.
   
 You **must** install provided `diffusers` library.
 ```bash
 cd ./diffusers
 pip install -e .
 ```
+> I used one A100 80GB GPU.
   
 ## Run code🏂
 ```python
