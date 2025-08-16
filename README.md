@@ -9,7 +9,7 @@
 </p>  
 <p align="center">
     <a href="https://github.com/huggingface/diffusers/blob/main/LICENSE"><img alt="GitHub" src="https://img.shields.io/github/license/huggingface/datasets.svg?color=blue"></a>
-    <a href="https://github.com/huggingface/diffusers/releases"><img alt="GitHub release" src="https://img.shields.io/github/release/huggingface/diffusers.svg"></a>
+    <a href="https://kyujinpy.tistory.com/178"><img alt="Static Badge" src="https://img.shields.io/badge/Blog-WANAlign2.1-orange?label=Blog"></a>
 </p>
 
 We present **WANAlign2.1⚡**, an inversion-free video editing framework that combines the inversion-free editing method **FlowAlign** with **WAN2.1**. By integrating FlowAlign’s inversion-free sampling equation into WAN2.1, our approach preserves the intrinsic characteristics of the source video during editing.   
