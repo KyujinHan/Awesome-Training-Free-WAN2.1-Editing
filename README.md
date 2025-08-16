@@ -188,7 +188,6 @@ python awesome_wan_editing.py --config=[__config_yaml_path__]
 > If you want to visualize attention masking maps, please activate [these code](https://github.com/KyujinHan/Awesome-Training-Free-WAN2.1-Editing/blob/0a138c514610d8801a2469deee941514a7757ad9/diffusers/src/diffusers/pipelines/wan/pipeline_wan.py#L1515).
 
 # TODO-list
-- [ ] Paper Review 
 - [x] Integrating Diffusers🤗
 - [x] Code Release
 - [x] Support WAN2.1-T2V-1.3B
