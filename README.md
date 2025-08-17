@@ -15,9 +15,9 @@
     <a href="https://github.com/KyujinHan/Awesome-Training-Free-WAN2.1-Editing/tree/master/diffusers"><img alt="Static Badge" src="https://img.shields.io/badge/Diffusers-yellow?label=Library"></a>
 </p>
 
-We present **WANAlign2.1⚡**, an inversion-free video editing framework that combines the inversion-free editing method **FlowAlign** with **WAN2.1**. By integrating FlowAlign’s inversion-free sampling equation into WAN2.1, our approach preserves the intrinsic characteristics of the source video during editing.   
-To further enhance control, we introduce **Decoupled Inversion-Free Sampling (DIFS)**, which leverages **attention masking to independently adjust the editing strength** between preserved and modified regions.  
-The previous methods frequently modified regions that should have been preserved, thereby degrading overall consistency. Our **WANAlign2.1⚡** achieves improved spatial-temporal consistency and enhanced text-guided editing performance through DIFS.   
+I present **WANAlign2.1⚡**, an inversion-free video editing framework that combines the inversion-free editing method **FlowAlign** with **WAN2.1**. By integrating FlowAlign’s inversion-free sampling equation into WAN2.1, our approach preserves the intrinsic characteristics of the source video during editing.   
+To further enhance control, I introduce **Decoupled Inversion-Free Sampling (DIFS)**, which leverages **attention masking to independently adjust the editing strength** between preserved and modified regions.  
+The previous methods frequently modified regions that should have been preserved, thereby degrading overall consistency. The **WANAlign2.1⚡** achieves improved spatial-temporal consistency and enhanced text-guided editing performance through DIFS.   
 As shown in the [Results](https://github.com/KyujinHan/Awesome-Training-Free-WAN2.1-Editing?tab=readme-ov-file#results), qualitative results demonstrate that our method is state-of-the-art.
 
 # Results🐦‍🔥
