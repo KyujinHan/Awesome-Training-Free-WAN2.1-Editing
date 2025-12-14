@@ -6,6 +6,9 @@
 - WAN2.1 + FlowAlign
 - WANAlign2.1⚡ (FlowAlign + masking method)
 
+# News
+- **[2025-12-14]** Introduced on the [official WAN GitHub](https://github.com/Wan-Video/Wan2.1?tab=readme-ov-file#community-works)🔥
+
 # Introduce WANAlign2.1⚡
 <p align="center">
   <img src="./utils/model.gif" alt="animated"/>
