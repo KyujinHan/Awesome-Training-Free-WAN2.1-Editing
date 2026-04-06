@@ -7,6 +7,7 @@
 - WANAlign2.1⚡ (FlowAlign + masking method)
 
 # News 📑
+- **[FlowAlign (ICLR 26)](https://openreview.net/forum?id=nyttIJfwW7)** cited my method in the video editing section of their paper🌠
 - **[2025-12-16]** Introduced on the [official FlowEdit GitHub](https://github.com/fallenshock/FlowEdit?tab=readme-ov-file#community-work)🔥
 - **[2025-12-14]** Introduced on the [official WAN GitHub](https://github.com/Wan-Video/Wan2.1?tab=readme-ov-file#community-works)🔥
 
